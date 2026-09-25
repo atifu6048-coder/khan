@@ -1,0 +1,13 @@
+{
+  "name": "leads-school-portal",
+  "version": "1.0.0",
+  "description": "LEADS School System Online Admission Portal",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["school", "admission-portal", "leads"],
+  "author": "atifu6048-coder",
+  "license": "ISC"
+}
